@@ -52,10 +52,10 @@
     </div>
     <div class="th-menu-wrapper">
         <div class="th-menu-area text-center"><button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo"><a href="index.html"><img src="assets/img/logo-2.svg" alt="Konta"></a></div>
+            <div class="mobile-logo"><a href="index.php"><img src="assets/img/logo-2.svg" alt="Konta"></a></div>
             <div class="th-mobile-menu">
                 <ul>
-                    <li > <a href="index.html">Home</a></li>
+                    <li > <a href="index.php">Home</a></li>
                       <ul class="sub-menu">
                     
                            
@@ -66,14 +66,14 @@
                                     
                         </ul>
                     
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="about.php">About Us</a></li>
                    
-                            <li><a href="service-details.html">Service</a></li>
+                            <li><a href="service-details.php">Service</a></li>
                            
                         
                     
-                            <li><a href="project.html">Project</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                            <li><a href="project.php">Project</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -118,7 +118,7 @@
                     <div class="container">
                         <div class="row align-items-center justify-content-between">
                             <div class="col-auto">
-                                <div class="logo-style3"><a href="index.html"><img src="assets/img/logo1.jpg"
+                                <div class="logo-style3"><a href="index.php"><img src="assets/img/logo1.jpg"
                                             alt="Konta"></a></div>
                             </div>
                             <div class="col-auto">
@@ -127,7 +127,7 @@
                                         <nav class="main-menu d-none d-lg-inline-block">
                                             <ul>
                                                 <li>
-                                                <a href="index.html">Home</a></li>
+                                                <a href="index.php">Home</a></li>
                                                  <ul class="sub-menu">
                                                         <!--<a href="#"></a>-->
                                                             <ul class="sub-menu">
@@ -137,14 +137,14 @@
                                                         
                                                     </ul>
                                                 
-                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="about.php">About Us</a></li>
                                                
-                                                        <li><a href="service.html">Service</a></li>
-                                                        <li><a href="project.html">Projects</a></li>
+                                                        <li><a href="service.php">Service</a></li>
+                                                        <li><a href="project.php">Projects</a></li>
                                                     
                                                 </li>
                                                
-                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
                                             </ul>
                                         </nav><button type="button" class="th-menu-toggle d-inline-block d-lg-none"><i
                                                 class="far fa-bars"></i></button>
@@ -152,7 +152,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.html" class="th-btn style-new ml-15">GET A QUOTE<i
+                                            <a href="contact.php" class="th-btn style-new ml-15">GET A QUOTE<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
@@ -175,7 +175,7 @@
                 </div>
             </div>
         </div>
-      <!--<div class="hero-img"><img src="assets/img/update1/hero/" alt="Hero Image"></div>-->  
+      <div class="hero-img"><img src="assets/img/update1/hero/hero_4_1.png" alt="Hero Image"></div>
     </div>
     <section class="space-top">
         <div class="container">
@@ -261,7 +261,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="signature-box-wrap"><a href="about.html" class="th-btn style-new">ABOUT MORE<i
+                        <div class="signature-box-wrap"><a href="about.php" class="th-btn style-new">ABOUT MORE<i
                                     class="fas fa-arrow-right ms-2"></i></a>
                             <div class="signature-box">
                                
@@ -333,7 +333,7 @@
                 <div class="col-lg-8 col-md-10 mb-4 mb-lg-0 text-center text-lg-start">
                     <h2 class="mb-0 text-white">Have Any Question For Project Plan In Your Mind?</h2>
                 </div>
-                <div class="col-lg-auto text-center text-lg-start"><a href="course.html"
+                <div class="col-lg-auto text-center text-lg-start"><a href="course.php"
                         class="th-btn style6 style-new">GET IN TOUCH<i class="fas fa-arrow-right ms-2"></i></a></div>
             </div>
         </div>
@@ -359,7 +359,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title box-title"><a href="team-details.html">Mishel Marsh</a></h3><span
+                            <h3 class="team-title box-title"><a href="team-details.php">Mishel Marsh</a></h3><span
                                 class="team-desig">Founder</span>
                         </div>
                     </div>
@@ -376,7 +376,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title box-title"><a href="team-details.html">Michel Richard</a></h3><span
+                            <h3 class="team-title box-title"><a href="team-details.php">Michel Richard</a></h3><span
                                 class="team-desig">Architecture</span>
                         </div>
                     </div>
@@ -393,7 +393,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title box-title"><a href="team-details.html">Famhida Ruko</a></h3><span
+                            <h3 class="team-title box-title"><a href="team-details.php">Famhida Ruko</a></h3><span
                                 class="team-desig">Engineer</span>
                         </div>
                     </div>
@@ -410,7 +410,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title box-title"><a href="team-details.html">Alex Anfantino</a></h3><span
+                            <h3 class="team-title box-title"><a href="team-details.php">Alex Anfantino</a></h3><span
                                 class="team-desig">Site Manager</span>
                         </div>
                     </div>
@@ -427,7 +427,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <h3 class="team-title box-title"><a href="team-details.html">Jackline Farah</a></h3><span
+                            <h3 class="team-title box-title"><a href="team-details.php">Jackline Farah</a></h3><span
                                 class="team-desig">Engineer</span>
                         </div>
                     </div>
@@ -466,8 +466,8 @@
                         <div class="project-content">
                             <div class="media-body">
                                 <p class="project-subtitle">Constructions</p>
-                                <h3 class="project-title"><a href="project-details.html">Contemporary Villa</a></h3>
-                            </div><a href="project-details.html" class="project-icon"><i
+                                <h3 class="project-title"><a href="project-details.php">Contemporary Villa</a></h3>
+                            </div><a href="project-details.php" class="project-icon"><i
                                     class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -479,8 +479,8 @@
                         <div class="project-content">
                             <div class="media-body">
                                 <p class="project-subtitle">Constructions</p>
-                                <h3 class="project-title"><a href="project-details.html">Bridge Trangle Core</a></h3>
-                            </div><a href="project-details.html" class="project-icon"><i
+                                <h3 class="project-title"><a href="project-details.php">Bridge Trangle Core</a></h3>
+                            </div><a href="project-details.php" class="project-icon"><i
                                     class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -492,8 +492,8 @@
                         <div class="project-content">
                             <div class="media-body">
                                 <p class="project-subtitle">Constructions</p>
-                                <h3 class="project-title"><a href="project-details.html">Rowson Construction</a></h3>
-                            </div><a href="project-details.html" class="project-icon"><i
+                                <h3 class="project-title"><a href="project-details.php">Rowson Construction</a></h3>
+                            </div><a href="project-details.php" class="project-icon"><i
                                     class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -505,8 +505,8 @@
                         <div class="project-content">
                             <div class="media-body">
                                 <p class="project-subtitle">Constructions</p>
-                                <h3 class="project-title"><a href="project-details.html">Interior Decoration</a></h3>
-                            </div><a href="project-details.html" class="project-icon"><i
+                                <h3 class="project-title"><a href="project-details.php">Interior Decoration</a></h3>
+                            </div><a href="project-details.php" class="project-icon"><i
                                     class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -518,8 +518,8 @@
                         <div class="project-content">
                             <div class="media-body">
                                 <p class="project-subtitle">Constructions</p>
-                                <h3 class="project-title"><a href="project-details.html">Construction Planning</a></h3>
-                            </div><a href="project-details.html" class="project-icon"><i
+                                <h3 class="project-title"><a href="project-details.php">Construction Planning</a></h3>
+                            </div><a href="project-details.php" class="project-icon"><i
                                     class="far fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -846,7 +846,7 @@
                     <div class="col-md-6 col-xxl-3 col-xl-3">
                         <div class="widget footer-widget">
                             <div class="th-widget-about">
-                                <div class="about-logo"><a href="index.html"><img src="assets/img/logo1.webp"
+                                <div class="about-logo"><a href="index.php"><img src="assets/img/logo1.webp"
                                             alt="Konta"></a></div>
                                 <p class="about-text">Crafting Tomorrow’s Spaces Today – Brindha Builders, Your Trusted Partner in 
                                     Innovative Construction Excellence..</p>
@@ -867,15 +867,15 @@
                             <h3 class="widget_title">our services</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="service.html">consulting
+                                    <li><a href="service.php">consulting
                                     </a></li>
-                                    <li><a href="service.html">Estimate
+                                    <li><a href="service.php">Estimate
                                     </a></li>
-                                    <li><a href="service.html">Approval plan
+                                    <li><a href="service.php">Approval plan
                                     </a></li>
-                                    <li><a href="service.html">Contract</a></li>
-                                    <li><a href="service.html">Elevation work(3D)</a></li>
-                                    <li><a href="service.html">Site supervising
+                                    <li><a href="service.php">Contract</a></li>
+                                    <li><a href="service.php">Elevation work(3D)</a></li>
+                                    <li><a href="service.php">Site supervising
                                     </a></li>
                                 </ul>
                             </div>
@@ -886,12 +886,12 @@
                             <h3 class="widget_title">Quick Links</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="index.html">Home </a></li>
+                                    <li><a href="index.php">Home </a></li>
                                     
-                                    <li><a href="about.html">About </a></li>
-                                    <li><a href="service.html">Services</a></li>
-                                    <li><a href="project.html">Projects</a></li>
-                                    <li><a href="contact.html">Contact </a></li>
+                                    <li><a href="about.php">About </a></li>
+                                    <li><a href="service.php">Services</a></li>
+                                    <li><a href="project.php">Projects</a></li>
+                                    <li><a href="contact.php">Contact </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -913,9 +913,9 @@
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-phone"></i></div><a
                                         href="tel:8220807297
-                                        8248809310" class="info-box_link">8220807297
+                                        8248809310" class="info-box_link"> +91 8220807297
                             <br>
-                                        8248809310</a>
+                                        +91 8248809310</a>
                                 </div>
                             </div>
                         </div>

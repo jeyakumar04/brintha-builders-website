@@ -47,10 +47,10 @@
     </div>
     <div class="th-menu-wrapper">
         <div class="th-menu-area text-center"><button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo"><a href="index.html"><img src="assets/img/logo-2.svg" alt="Konta"></a></div>
+            <div class="mobile-logo"><a href="index.php"><img src="assets/img/logo-2.svg" alt="Konta"></a></div>
             <div class="th-mobile-menu">
                 <ul>
-                    <li > <a href="index.html">Home</a></li>
+                    <li > <a href="index.php">Home</a></li>
                       <ul class="sub-menu">
                     
                            
@@ -61,14 +61,14 @@
                                     
                         </ul>
                     
-                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="about.php">About Us</a></li>
                    
-                            <li><a href="service-details.html">Service</a></li>
+                            <li><a href="service-details.php">Service</a></li>
                            
                         
                     
-                            <li><a href="project.html">Project</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                            <li><a href="project.php">Project</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -113,7 +113,7 @@
                     <div class="container">
                         <div class="row align-items-center justify-content-between">
                             <div class="col-auto">
-                                <div class="logo-style3"><a href="index.html"><img src="assets/img/logo1.jpg"
+                                <div class="logo-style3"><a href="index.php"><img src="assets/img/logo1.jpg"
                                             alt="Konta"></a></div>
                             </div>
                             <div class="col-auto">
@@ -122,7 +122,7 @@
                                         <nav class="main-menu d-none d-lg-inline-block">
                                             <ul>
                                                 <li>
-                                                <a href="index.html">Home</a></li>
+                                                <a href="index.php">Home</a></li>
                                                  <ul class="sub-menu">
                                                         <!--<a href="#"></a>-->
                                                             <ul class="sub-menu">
@@ -132,14 +132,14 @@
                                                         
                                                     </ul>
                                                 
-                                                <li><a href="about.html">About Us</a></li>
+                                                <li><a href="about.php">About Us</a></li>
                                                
-                                                        <li><a href="service.html">Service</a></li>
-                                                        <li><a href="project.html">Projects</a></li>
+                                                        <li><a href="service.php">Service</a></li>
+                                                        <li><a href="project.php">Projects</a></li>
                                                     
                                                 </li>
                                                
-                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
                                             </ul>
                                         </nav><button type="button" class="th-menu-toggle d-inline-block d-lg-none"><i
                                                 class="far fa-bars"></i></button>
@@ -147,7 +147,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.html" class="th-btn style-new ml-15">GET A QUOTE<i
+                                            <a href="contact.php" class="th-btn style-new ml-15">GET A QUOTE<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
@@ -163,7 +163,7 @@
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Contact Us</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Contact Us</li>
                 </ul>
             </div>
@@ -180,7 +180,7 @@
                         <div class="contact-feature-icon"><i class="fal fa-location-dot"></i></div>
                         <div class="media-body">
                             <p class="contact-feature_label">Our Address</p><a href="https://www.google.com/maps"
-                                class="contact-feature_link">2690 Hiltona Street Victoria Road, New York, Canada</a>
+                                class="contact-feature_link">Rayar Complex,Thanjavur.</a>
                         </div>
                     </div>
                 </div>
@@ -189,8 +189,8 @@
                         <div class="contact-feature-icon"><i class="fal fa-phone"></i></div>
                         <div class="media-body">
                             <p class="contact-feature_label">Contact Number</p><a href="tel:256214203215"
-                                class="contact-feature_link">Mobile: +256 214 203 215</a> <a
-                                href="mailto:info@konta.com" class="contact-feature_link">Email: info@konta.com</a>
+                                class="contact-feature_link">Mobile: +91 8220807297</a> <a
+                                href="mailto:  brinthabuilders@gmail.com" class="contact-feature_link">Email:  brinthabuilders@gmail.com</a>
                         </div>
                     </div>
                 </div>
@@ -199,7 +199,7 @@
                         <div class="contact-feature-icon"><i class="fal fa-clock"></i></div>
                         <div class="media-body">
                             <p class="contact-feature_label">Hours of Operation</p><span
-                                class="contact-feature_link">Monday - Saturday: 8:00 - 15:00</span> <span
+                                class="contact-feature_link">Monday - Saturday: 8:00 - 8:00</span> <span
                                 class="contact-feature_link">Sunday: Closed</span>
                         </div>
                     </div>
@@ -208,7 +208,7 @@
                     <div class="contact-wrap2">
                         <div class="contact-form-wrap">
                             <h2 class="title h3 text-center mt-n1">Get In Touch</h2>
-                            <form action="mail.php" method="POST" class="contact-form ajax-contact">
+                            <form action="mail.php" method="POST" autocomplete="off" class="contact-form ajax-contact">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group"><input type="text" class="form-control" name="name"
@@ -225,13 +225,13 @@
                                                 <option value="" disabled="disabled" selected="selected" hidden="">
                                                     Select Subject*</option>
                                                 <option value="Construction">Construction</option>
-                                                <option value="Real Estate">Real Estate</option>
-                                                <option value="Industry">Industry</option>
-                                                <option value="Architect">Architect</option>
+                                                <option value="Real Estate">Elevation </option>
+                                                <option value="Industry">consulting</option>
+                                                <option value="Architect">contract</option>
                                             </select></div>
                                     </div>
                                     <div class="col-md-6">
-                                        <div class="form-group"><input type="tel" class="form-control" name="number"
+                                        <div class="form-group"><input type="tel" class="form-control" name="mobile"
                                                 id="number" placeholder="Phone Number*"> <i class="fal fa-phone"></i>
                                         </div>
                                     </div>
@@ -240,8 +240,11 @@
                                                 class="form-control" placeholder="Write Your Message*"></textarea> <i
                                                 class="fal fa-pen"></i></div>
                                     </div>
-                                    <div class="form-btn col-12"><button class="th-btn w-100">Send Message<i
-                                                class="fas fa-long-arrow-right ms-2"></i></button></div>
+                                    <div class="form-btn col-12">
+                                        <button class="th-btn w-100" type="submit" >Send Message<i
+                                                class="fas fa-long-arrow-right ms-2"></i>
+                                        </button>
+                                    </div>
                                 </div>
                                 <p class="form-messages mb-0 mt-3"></p>
                             </form>
@@ -261,7 +264,7 @@
                             <div class="col-md-6 col-xxl-3 col-xl-3">
                                 <div class="widget footer-widget">
                                     <div class="th-widget-about">
-                                        <div class="about-logo"><a href="index.html"><img src="assets/img/logo1.webp"
+                                        <div class="about-logo"><a href="index.php"><img src="assets/img/logo1.webp"
                                                     alt="Konta"></a></div>
                                         <p class="about-text">Crafting Tomorrow’s Spaces Today – Brindha Builders, Your Trusted Partner in 
                                             Innovative Construction Excellence..</p>
@@ -282,15 +285,15 @@
                                     <h3 class="widget_title">our services</h3>
                                     <div class="menu-all-pages-container">
                                         <ul class="menu">
-                                            <li><a href="service.html">consulting
+                                            <li><a href="service.php">consulting
                                             </a></li>
-                                            <li><a href="service.html">Estimate
+                                            <li><a href="service.php">Estimate
                                             </a></li>
-                                            <li><a href="service.html">Approval plan
+                                            <li><a href="service.php">Approval plan
                                             </a></li>
-                                            <li><a href="service.html">Contract</a></li>
-                                            <li><a href="service.html">Elevation work(3D)</a></li>
-                                            <li><a href="service.html">Site supervising
+                                            <li><a href="service.php">Contract</a></li>
+                                            <li><a href="service.php">Elevation work(3D)</a></li>
+                                            <li><a href="service.php">Site supervising
                                             </a></li>
                                         </ul>
                                     </div>
@@ -301,12 +304,12 @@
                                     <h3 class="widget_title">Quick Links</h3>
                                     <div class="menu-all-pages-container">
                                         <ul class="menu">
-                                            <li><a href="index.html">Home </a></li>
+                                            <li><a href="index.php">Home </a></li>
                                             
-                                            <li><a href="about.html">About </a></li>
-                                            <li><a href="service.html">Services</a></li>
-                                            <li><a href="project.html">Projects</a></li>
-                                            <li><a href="contact.html">Contact </a></li>
+                                            <li><a href="about.php">About </a></li>
+                                            <li><a href="service.php">Services</a></li>
+                                            <li><a href="project.php">Projects</a></li>
+                                            <li><a href="contact.php">Contact </a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -328,9 +331,9 @@
                                         <div class="info-box-wrap">
                                             <div class="info-box_icon"><i class="fas fa-phone"></i></div><a
                                                 href="tel:8220807297
-                                                8248809310" class="info-box_link">8220807297
+                                                8248809310" class="info-box_link"> +91 8220807297
                                     <br>
-                                                8248809310</a>
+                                                +91 8248809310</a>
                                         </div>
                                     </div>
                                 </div>
