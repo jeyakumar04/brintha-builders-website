@@ -645,7 +645,7 @@
             </div>
         </div>
     </div>
-   <div class="space" data-bg-src="assets/img/update1/bg/testi_bg_4.jpg">
+   
         <!-- <div class="container">
             <div class="row">
                 <div class="col-xl-6">
@@ -693,11 +693,12 @@
                 </div>
             </div>
         </div>-->
-    </div>
+    
     <section class="testi-area-3 bg-smoke overflow-hidden bg-smoke space">
+    <div class="space" data-bg-src="assets/img/update1/bg/testi_bg_4.jpg">
         <div class="container">
             <div class="title-area text-center"><span class="sub-title4">Our Testimonials</span>
-                <h2 class="sec-title">What Our Clients Say?</h2>
+                <h2 class="sec-title" style="color: white;">What Our Clients Say?</h2>
             </div>
         </div>
         <div class="container">
@@ -784,6 +785,7 @@
             </div>
         </div>
     </section>
+    </div>
     <!--<div class="th-modal modal fade" id="serviceModal" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-xl">
             <div class="modal-content"><button type="button" class="icon-btn btn-close" data-bs-dismiss="modal"

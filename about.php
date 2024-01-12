@@ -81,7 +81,7 @@
                         <div class="col-auto d-none d-md-block">
                             <div class="header-links d-none d-md-block">
                                 <ul>
-                                    <li><i class="fal fa-phone"></i><a href="tel:+19524357106"> +91 8220807297  </a></li>
+                                    <li><i class="fal fa-phone"></i><a href="tel:+19524357106">  8220807297  </a></li>
                                     <li><i class="fal fa-envelope"></i><a
                                             href="mailto:brinthabuilders@gmail.com">brinthabuilders@gmail.com</a></li>
                                 </ul>
@@ -454,8 +454,7 @@
             </div>
         </div>-->
     </div>
-    <div class="team-area overflow-hidden space" id="team-sec" data-bg-src="assets/img/bg/team_bg_1.png"
-        data-overlay="title">
+    
        <!--<div class="container">
             <div class="title-area text-center"><span class="sub-title4">Team Members</span>
                 <h2 class="sec-title text-white">Our Professional Team</h2>
@@ -584,11 +583,13 @@
                 </div>
             </div>
         </div>-->
-    </div>
+    
     <section class="space">
+    <div class="team-area overflow-hidden space" id="team-sec" data-bg-src="assets/img/bg/team_bg_1.png"
+        data-overlay="title">
         <div class="container">
             <div class="title-area text-center"><span class="sub-title4">How It Works</span>
-                <h2 class="sec-title fw-semibold">Our Work Process</h2>
+                <h2 class="sec-title fw-semibold" style="color:white" >Our Work Process</h2>
             </div>
             <div class="row gy-50 justify-content-center">
                 <div class="col-md-6 col-xl-3">
@@ -635,7 +636,10 @@
                 </div>
             </div>
         </div>
+      
     </section>
+    </div>
+   
     
     <footer class="footer-wrapper footer-layout-default" data-bg-src="assets/img/bg/footer-bg.png">
         <div class="widget-area space-top">

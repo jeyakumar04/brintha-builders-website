@@ -81,7 +81,7 @@
                         <div class="col-auto d-none d-md-block">
                             <div class="header-links d-none d-md-block">
                                 <ul>
-                                    <li><i class="fal fa-phone"></i><a href="tel:+19524357106">+91 8220807297  </a></li>
+                                    <li><i class="fal fa-phone"></i><a href="tel:+19524357106">8220807297  </a></li>
                                     <li><i class="fal fa-envelope"></i><a
                                             href="mailto:brinthabuilders@gmail.com">brinthabuilders@gmail.com</a></li>
                                 </ul>

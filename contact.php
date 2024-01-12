@@ -180,7 +180,7 @@
                         <div class="contact-feature-icon"><i class="fal fa-location-dot"></i></div>
                         <div class="media-body">
                             <p class="contact-feature_label">Our Address</p><a href="https://www.google.com/maps"
-                                class="contact-feature_link">Rayar Complex,Thanjavur.</a>
+                                class="contact-feature_link">Shop No3,Rayar-Complex,Near Annai Theresa Foundation,Thanjavur-5</a>
                         </div>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                         <div class="contact-feature-icon"><i class="fal fa-phone"></i></div>
                         <div class="media-body">
                             <p class="contact-feature_label">Contact Number</p><a href="tel:256214203215"
-                                class="contact-feature_link">Mobile: +91 8220807297</a> <a
+                                class="contact-feature_link">Mobile:  8220807297</a> <a
                                 href="mailto:  brinthabuilders@gmail.com" class="contact-feature_link">Email:  brinthabuilders@gmail.com</a>
                         </div>
                     </div>
@@ -199,7 +199,7 @@
                         <div class="contact-feature-icon"><i class="fal fa-clock"></i></div>
                         <div class="media-body">
                             <p class="contact-feature_label">Hours of Operation</p><span
-                                class="contact-feature_link">Monday - Saturday: 8:00 - 8:00</span> <span
+                                class="contact-feature_link">Monday - Saturday: 7:00 - 9:00</span> <span
                                 class="contact-feature_link">Sunday: Closed</span>
                         </div>
                     </div>
@@ -254,9 +254,9 @@
             </div>
         </div>
     </div>
-    <div class="contact-map"><iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sth!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd"
-            allowfullscreen="" loading="lazy"></iframe></div>
+    <div class="contact-map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.855925337403!2d79.11649017480444!3d10.745585289401307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baab923ff1c8fcf%3A0x5d2eb03f82bc7594!2sBrintha%20Builders!5e0!3m2!1sen!2sin!4v1705043306499!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
             <footer class="footer-wrapper footer-layout-default" data-bg-src="assets/img/bg/footer-bg.png">
                 <div class="widget-area space-top">
                     <div class="container">
