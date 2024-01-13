@@ -220,7 +220,7 @@
                                         <div class="counter-grid_icon"><img src="assets/img/icon/counter-icon4-1.svg"
                                                 alt="img"></div>
                                         <div class="details">
-                                            <h2 class="counter-grid_number"><span class="counter-number">4</span>k<span
+                                            <h2 class="counter-grid_number"><span class="counter-number">450</span><span
                                                     class="text-theme fw-normal">+</span></h2>
                                             <p class="counter-grid_text">Projects Complete</p>
                                         </div>
@@ -232,8 +232,8 @@
                                                 alt="img"></div>
                                         <div class="details">
                                             <h2 class="counter-grid_number"><span
-                                                    class="counter-number">3.5</span>k<span
-                                                    class="text-theme fw-normal">+</span></h2>
+                                                    class="counter-number">10</span><span
+                                                    class="text-theme fw-normal"></span></h2>
                                             <p class="counter-grid_text">Our Team Members</p>
                                         </div>
                                     </div>
@@ -244,7 +244,7 @@
                                                 alt="img"></div>
                                         <div class="details">
                                             <h2 class="counter-grid_number"><span
-                                                    class="counter-number">2.5</span>k<span
+                                                    class="counter-number">250</span><span
                                                     class="text-theme fw-normal">+</span></h2>
                                             <p class="counter-grid_text">Clients Are Happy</p>
                                         </div>
@@ -255,7 +255,7 @@
                                         <div class="counter-grid_icon"><img src="assets/img/icon/counter-icon4-4.svg"
                                                 alt="img"></div>
                                         <div class="details">
-                                            <h2 class="counter-grid_number"><span class="counter-number">1</span>k<span
+                                            <h2 class="counter-grid_number"><span class="counter-number">50</span><span
                                                     class="text-theme fw-normal">+</span></h2>
                                             <p class="counter-grid_text">Winning Awards</p>
                                         </div>
