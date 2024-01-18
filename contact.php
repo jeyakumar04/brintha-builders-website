@@ -94,8 +94,7 @@
                                     </li>
                                     <li>
                                         <div class="header-social"><a href="https://www.facebook.com/"><i
-                                                    class="fab fa-facebook-f"></i></a> <a
-                                                href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                                                    class="fab fa-facebook-f"></i></a>
                                                
                                             <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                                         </div>
@@ -147,7 +146,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.php" class="th-btn style-new ml-15">GET A QUOTE<i
+                                            <a href="contact.php" class="th-btn style-new ml-15">CHAT ON WHATSAPP<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
@@ -271,8 +270,7 @@
                                             <div class="th-social">
                                                 <a href="https://www.facebook.com/"><i
                                                 class="fab fa-facebook-f"></i></a>
-                                                 <a href="https://www.twitter.com/"><i
-                                                class="fab fa-twitter"></i></a>
+                                                 
                                                 <a href="https://www.instagram.com/"><i 
                                                     class="fab fa-instagram"></i>
                                                </a></div>
@@ -348,7 +346,7 @@
                         <div class="row justify-content-between align-items-center">
                            
                 <div class="col-md-6">
-                    <p class="copyright-text">Copyright &copy; 2023 -   <script>
+                    <p class="copyright-text">Copyright &copy; 2024 -   <script>
                         document.write(new Date().getFullYear());
                       </script>
                      <span id="white">Brintha Builders</span>, All rights Reserved.

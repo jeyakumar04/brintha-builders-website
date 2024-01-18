@@ -94,9 +94,7 @@
                                     </li>
                                     <li>
                                         <div class="header-social"><a href="https://www.facebook.com/"><i
-                                                    class="fab fa-facebook-f"></i></a> <a
-                                                href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                                               
+                                                    class="fab fa-facebook-f"></i></a>
                                             <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                                         </div>
                                     </li>
@@ -147,7 +145,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.php" class="th-btn style-new ml-15">GET A QUOTE<i
+                                            <a href="contact.php" class="th-btn style-new ml-15"> CHAT ON WHATSAPP<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
@@ -241,10 +239,10 @@
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-5.svg" alt="icon">
                             </div>
-                            <h3 class="box-title"><a href="elevation works.php">Elevation Works(3D)</a></h3>
+                            <h3 class="box-title"><a href="elevation works.php">Elevation Works</a></h3>
                             <div class="service-card-number">05</div>
                         </div>
-                        <p class="service-card-text">Visualize your project's potential with our cutting-edge 3D elevation works.
+                        <p class="service-card-text">Visualize your project's potential with our cutting-edge 3D elevation works are the perfect solution.
 
                         </p>
                     </div>
@@ -272,12 +270,14 @@
                 <div class="col-xl-6">
                     <div class="title-area"><span class="sub-title2"><img class="me-1"
                                 src="assets/img/icon/subtitle-img2-1.svg" alt="img">Contact Us</span>
-                                <h2 class="sec-title">Building Your Dreams, Crafting Your Tomorrow with Every Connection
-                                </h2>
-                                <p>With a comprehensive approach, we meticulously research and conduct due diligence to 
+                                <h3 class="sec-title">Building Your Dreams, Crafting Your Tomorrow with Every Connection
+                                </h3>
+                                
+                                <p style="color:black;font-size:1.2rem; font-weight: 600;">With a comprehensive approach, we meticulously research and conduct due diligence to 
                                     identify strategic locations that seamlessly align with current market demands. Trust our 
                                     10+ years of experience to guide your real estate endeavors toward success.
                                 </p>
+                                
                     </div>
                     <div class="contact-wrap1">
                         <div class="contact-form-wrap">
@@ -339,8 +339,7 @@
                                     <div class="th-social">
                                         <a href="https://www.facebook.com/"><i
                                         class="fab fa-facebook-f"></i></a>
-                                         <a href="https://www.twitter.com/"><i
-                                        class="fab fa-twitter"></i></a>
+                                         
                                         <a href="https://www.instagram.com/"><i 
                                             class="fab fa-instagram"></i>
                                        </a></div>
@@ -416,7 +415,7 @@
                 <div class="row justify-content-between align-items-center">
                    
         <div class="col-md-6">
-            <p class="copyright-text">Copyright &copy; 2023 -   <script>
+            <p class="copyright-text">Copyright &copy; 2024 -   <script>
                 document.write(new Date().getFullYear());
               </script>
              <span id="white">Brintha Builders</span>, All rights Reserved.

@@ -99,8 +99,7 @@
                                     </li>
                                     <li>
                                         <div class="header-social"><a href="https://www.facebook.com/"><i
-                                                    class="fab fa-facebook-f"></i></a> <a
-                                                href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                                                    class="fab fa-facebook-f"></i></a> 
                                                
                                             <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                                         </div>
@@ -152,7 +151,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.php" class="th-btn style-new ml-15">GET A QUOTE<i
+                                            <a href="contact.php" class="th-btn style-new ml-15">CHAT ON WHATSAPP<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
@@ -235,7 +234,7 @@
                                 alt="About"></div>
                         <div class="shape"><img src="assets/img/update1/normal/about_shape_1.svg" alt="shape"></div>
                         <div class="about-counter1" data-bg-src="assets/img/update1/bg/bg_pattern_3.png">
-                            <h3 class="counter-title"><span class="counter-number">17</span></h3><span
+                            <h3 class="counter-title"><span class="counter-number">25</span></h3><span
                                 class="counter-text">Years Experience</span>
                         </div>
                     </div>
@@ -698,7 +697,7 @@
     <div class="space" data-bg-src="assets/img/update1/bg/testi_bg_4.jpg">
         <div class="container">
             <div class="title-area text-center"><span class="sub-title4">Our Testimonials</span>
-                <h2 class="sec-title" style="color: white;">What Our Clients Say?</h2>
+                <h2 class="sec-title" style="color: white;">OUR HAPPY CLIENTS</h2>
             </div>
         </div>
         <div class="container">
@@ -714,7 +713,7 @@
                            
                             <div class="testi-card_bottom">
                                 <h3 class="testi-card_name">Ramesh S</h3><span
-                                    class="testi-card_desig">Chennai</span>
+                                    class="testi-card_desig">Thanjavur</span>
                                 <div class="testi-card_review"><i class="fa-regular fa-star-sharp"></i> <i
                                         class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
                                     <i class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
@@ -771,7 +770,7 @@
                            
                             <div class="testi-card_bottom">
                                 <h3 class="testi-card_name">Priya</h3><span
-                                    class="testi-card_desig">Trichy</span>
+                                    class="testi-card_desig">Thanjavur</span>
                                 <div class="testi-card_review"><i class="fa-regular fa-star-sharp"></i> <i
                                         class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
                                     <i class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
@@ -855,8 +854,7 @@
                                     <div class="th-social">
                                         <a href="https://www.facebook.com/"><i
                                         class="fab fa-facebook-f"></i></a>
-                                         <a href="https://www.twitter.com/"><i
-                                        class="fab fa-twitter"></i></a>
+                                         
                                         <a href="https://www.instagram.com/"><i 
                                             class="fab fa-instagram"></i>
                                        </a></div>
@@ -932,7 +930,7 @@
                 <div class="row justify-content-between align-items-center">
                    
         <div class="col-md-6">
-            <p class="copyright-text">Copyright &copy; 2023 -   <script>
+            <p class="copyright-text">Copyright &copy; 2024-   <script>
                 document.write(new Date().getFullYear());
               </script>
              <span id="white">Brintha Builders</span>, All rights Reserved.

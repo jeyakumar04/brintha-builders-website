@@ -94,8 +94,7 @@
                                     </li>
                                     <li>
                                         <div class="header-social"><a href="https://www.facebook.com/"><i
-                                                    class="fab fa-facebook-f"></i></a> <a
-                                                href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                                                    class="fab fa-facebook-f"></i></a> 
                                                
                                             <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                                         </div>
@@ -147,7 +146,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.php" class="th-btn style-new ml-15">GET A QUOTE<i
+                                            <a href="contact.php" class="th-btn style-new ml-15">CHAT ON WHATSAPP<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
@@ -177,7 +176,7 @@
                         <div class="img1"><img class="tilt-active" src="assets/img/normal/about_1_1.jpg" alt="About">
                         </div>
                         <div class="about-grid">
-                            <h3 class="about-grid_year"><span class="counter-number">17</span><span>+</span></h3>
+                            <h3 class="about-grid_year"><span class="counter-number">25</span><span>+</span></h3>
                             <p class="about-grid_text">Years Experiences Of Construction Company</p>
                         </div>
                         <div class="img2"><img class="tilt-active" src="assets/img/normal/about_1_2.jpg" alt="About">
@@ -191,7 +190,9 @@
                         <h3 class="sec-title fw-semibold">  We are brindha builders, a company dedicated to changing the world.
                         </h3>
                     </div>
-                    <p class="mt-n2 mb-35">Proactively foster relationships centered around our clients with a focus on process-centric leadership. Uphold credibility by prioritizing internally derived sources, favoring organic growth over rigid vertical alignments.
+                    <p class="mt-n2 mb-35">Founded in 1999, Brindha Builders has navigated challenges with resilience and determination, emerging as a beacon of success in the construction industry. Our journey reflects a commitment to quality, innovation, and client satisfaction. Overcoming obstacles,
+                     we've forged a legacy of excellence, creating spaces that stand as testaments to our unwavering dedication.
+                      Uphold credibility by prioritizing internally derived sources, favoring organic growth over rigid vertical alignments.
                     </p>
                    
                     <div class="btn-group mt-40"><a href="about.php" class="th-btn">More About Us<i
@@ -208,7 +209,7 @@
                         <div class="title-area mb-xl-0 text-center text-xl-start mb-50"><span class="sub-title4">Our
                                 Company Achievements</span>
                             <h2 class="sec-title fw-semibold">Industrial Strength, Global Impact</h2><a
-                                href="contact.php" class="th-btn mt-10">Make An Appointment <i
+                                href="contact.php" class="th-btn mt-10">CHAT ON WHATSAPP <i
                                     class="fa-regular fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
@@ -233,7 +234,7 @@
                                         <div class="details">
                                             <h2 class="counter-grid_number"><span
                                                     class="counter-number">10</span><span
-                                                    class="text-theme fw-normal"></span></h2>
+                                                    class="text-theme fw-normal">+</span></h2>
                                             <p class="counter-grid_text">Our Team Members</p>
                                         </div>
                                     </div>
@@ -655,8 +656,7 @@
                                     <div class="th-social">
                                         <a href="https://www.facebook.com/"><i
                                         class="fab fa-facebook-f"></i></a>
-                                         <a href="https://www.twitter.com/"><i
-                                        class="fab fa-twitter"></i></a>
+                                       
                                         <a href="https://www.instagram.com/"><i 
                                             class="fab fa-instagram"></i>
                                        </a></div>
@@ -732,7 +732,7 @@
                 <div class="row justify-content-between align-items-center">
                    
         <div class="col-md-6">
-            <p class="copyright-text">Copyright &copy; 2023 -   <script>
+            <p class="copyright-text">Copyright &copy; 2024 -   <script>
                 document.write(new Date().getFullYear());
               </script>
              <span id="white">Brintha Builders</span>, All rights Reserved.
