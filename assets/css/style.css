@@ -1,7 +1,7 @@
 @use "sass:math";
 
 :root {
-    --theme-color: #27a8dc;
+    --theme-color: #293888;
     --theme-color2: #52C306;
     --title-color: #0E121D;
     --body-color: #4D5765;
@@ -60,7 +60,7 @@ body::-webkit-scrollbar-thumb {
 
 .theme-green {
     --theme-color: #52C306;
-    --theme-color2: #FF5E14
+    --theme-color2: #293888
 }
 
 .theme-green .bg-theme2 {
@@ -83,7 +83,7 @@ body::-webkit-scrollbar-thumb {
 
 .theme-yellow {
     --theme-color: #F0A538;
-    --theme-color2: #FF5E14
+    --theme-color2: #293888
 }
 
 .theme-yellow .slick-arrow:hover {
@@ -2535,7 +2535,7 @@ textarea.is-invalid {
 
 .th-btn.style-new {
     border-radius: 3px;
-    box-shadow: 0px 8px 19px rgba(255, 76, 19, 0.3)
+   /* box-shadow: 0px 8px 19px rgba(255, 76, 19, 0.3)*/
 }
 
 .icon-btn {

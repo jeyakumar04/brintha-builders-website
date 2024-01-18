@@ -15,22 +15,10 @@
     <meta name="keywords" content="Konta - Construction & Real Estate Company HTML Template">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/logo.png">
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="assets/img/favicons/logo.png">
     <meta name="theme-color" content="#ffffff">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -52,7 +40,7 @@
     </div>
     <div class="th-menu-wrapper">
         <div class="th-menu-area text-center"><button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo"><a href="index.php"><img src="assets/img/logo-2.svg" alt="Konta"></a></div>
+            <div class="mobile-logo"><a href="index.php"><img src="assets/img/logo1.jpg" alt="Konta"></a></div>
             <div class="th-mobile-menu">
                 <ul>
                     <li > <a href="index.php">Home</a></li>
@@ -167,7 +155,7 @@
            <div class="th-hero-bg" data-bg-src="assets/img/update1/hero/hero_bg_4_1.jpg"><img
                     src="assets/img/update1/hero/hero_overlay_4.png" alt="overlay"></div>
             <div class="container z-index-common">
-                <div class="hero-style6"><span class="hero-subtitle"><span>Future craft</span></span>
+                <div class="hero-style6"><span class="hero-subtitle"><span style="color:white">Future craft</span></span>
                     <h1 class="hero-title"> Building Your<br> Tomorrows Now.</h1>
                     <p class="hero-text">Brindha Builders - Unleashing Innovation, Defining the Future, One Structure at a Time.</p>
                     
@@ -696,7 +684,7 @@
     <section class="testi-area-3 bg-smoke overflow-hidden bg-smoke space">
     <div class="space" data-bg-src="assets/img/update1/bg/testi_bg_4.jpg">
         <div class="container">
-            <div class="title-area text-center"><span class="sub-title4">Our Testimonials</span>
+            <div class="title-area text-center"><span style="color:#2aaae7" class="sub-title4">Our Testimonials</span>
                 <h2 class="sec-title" style="color: white;">OUR HAPPY CLIENTS</h2>
             </div>
         </div>
@@ -902,7 +890,7 @@
                             <div class="th-widget-contact">
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-location-dot"></i></div>
-                                    <p class="info-box_text">Rayar Complex,Thanjavur.</p>
+                                    <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur</p>
                                 </div>
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-envelope"></i></div><a
