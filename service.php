@@ -11,10 +11,10 @@
     <meta name="keywords" content="Konta - Construction & Real Estate Company HTML Template">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/logo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/logo1.png">
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="assets/img/favicons/logo.png">
+    <meta name="msapplication-TileImage" content="assets/img/favicons/logo1.png">
     <meta name="theme-color" content="#ffffff">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -82,10 +82,15 @@
                                   
                                     </li>
                                     <li>
-                                        <div class="header-social"><a href="https://www.facebook.com/"><i
+                                        <div class="header-social"><a href="https://www.facebook.com/profile.php?id=61555487381020"target="_blank"><i
                                                     class="fab fa-facebook-f"></i></a>
-                                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                                        </div>
+                                            <a href="https://www.instagram.com/Brintha_builders/"target="_blank"><i class="fab fa-instagram"></i></a>
+                                            <a href="https://www.youtube.com/@BrinthaBuilders"target="_blank"><i
+                                        class="fab fa-youtube"></i></a>
+                                        
+                                        <a href="https://api.whatsapp.com/send/?phone=8220807297&text&type=phone_number&app_absent=0"target="_blank"><i
+                                        class="fab fa-whatsapp"></i></a>
+                                    </div>
                                     </li>
                                 </ul>
                             </div>
@@ -100,7 +105,7 @@
                     <div class="container">
                         <div class="row align-items-center justify-content-between">
                             <div class="col-auto">
-                                <div class="logo-style3"><a href="index.php"><img src="assets/img/logo1.jpg"
+                                <div  class="logo-style3"><a href="index.php"><img   style="  width: 200px;margin-left: 50px "src="assets/img/logo1.png"
                                             alt="Konta"></a></div>
                             </div>
                             <div class="col-auto">
@@ -169,10 +174,10 @@
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-1.svg" alt="icon">
                             </div>
-                            <h3 class="box-title"><a href="consulting.php">Consulting</a></h3>
+                            <h3 class="box-title"><a href="Consulting.php">Consulting</a></h3>
                             <div class="service-card-number">01</div>
                         </div>
-                        <p class="service-card-text">Expert advice guiding you through every construction decision with Brindha Builders.
+                        <p class="service-card-text">Expert advice guiding you through every construction decision with Brintha Builders.
 
 
 
@@ -188,7 +193,7 @@
                             <h3 class="box-title"><a href="estimate.php">Estimate </a></h3>
                             <div class="service-card-number">02</div>
                         </div>
-                        <p class="service-card-text">Accurate cost projections ensuring transparent and budget-friendly construction solutions with Brindha.
+                        <p class="service-card-text">Accurate cost projections ensuring transparent and budget-friendly construction solutions with Brintha.
 
 
                             </p>
@@ -200,10 +205,10 @@
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-3.svg" alt="icon">
                             </div>
-                            <h3 class="box-title"><a href="approval plan.php">Approval Plan</a></h3>
+                            <h3 class="box-title"><a href="Plan Approval.php">Plan Approval</a></h3>
                             <div class="service-card-number">03</div>
                         </div>
-                        <p class="service-card-text">Navigating regulatory processes seamlessly, securing approvals for your project with Brindha.
+                        <p class="service-card-text">Navigating regulatory processes seamlessly, securing approvals for your project with Brintha.
 
                             </p>
                     </div>
@@ -242,10 +247,10 @@
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-6.svg" alt="icon">
                             </div>
-                            <h3 class="box-title"><a href="service.php">Site supervising</a></h3>
+                            <h3 class="box-title"><a href="service.php">Site Supervising</a></h3>
                             <div class="service-card-number">06</div>
                         </div>
-                        <p class="service-card-text">Diligent oversight ensuring construction aligns with plans, led by Brindha Builders.
+                        <p class="service-card-text">Diligent oversight ensuring construction aligns with plans, led by Brintha Builders.
                         </p>
                     </div>
                 </div>
@@ -262,9 +267,9 @@
                                 <h3 class="sec-title">Building Your Dreams, Crafting Your Tomorrow with Every Connection
                                 </h3>
                                 
-                                <p style="color:black;font-size:1.2rem; font-weight: 600;">With a comprehensive approach, we meticulously research and conduct due diligence to 
+                                <p style="color:black;font-size:1.2rem; font-weight: 500;">With a comprehensive approach, we meticulously research and conduct due diligence to 
                                     identify strategic locations that seamlessly align with current market demands. Trust our 
-                                    10+ years of experience to guide your real estate endeavors toward success.
+                                    25+ years of experience to guide your real estate endeavors toward success.
                                 </p>
                                 
                     </div>
@@ -291,7 +296,7 @@
                                                 class="single-select nice-select form-select">
                                                 <option value="" disabled="disabled" selected="selected" hidden="">
                                                     Select Subject*</option>
-                                                <option value="Web Design">consulting</option>
+                                                <option value="Web Design">Consulting</option>
                                                 <option value="Web Development">Elevation works</option>
                                                 <option value="Engine Diagnostics">Contract</option>
                                                 <option value="Digital Marketing">supervising</option>
@@ -321,35 +326,39 @@
                     <div class="col-md-6 col-xxl-3 col-xl-3">
                         <div class="widget footer-widget">
                             <div class="th-widget-about">
-                                <div class="about-logo"><a href="index.php"><img src="assets/img/logo1.webp"
+                                <div   class="about-logo"><a href="index.php"><img src="assets/img/logo1.png"
                                             alt="Konta"></a></div>
-                                <p class="about-text">Crafting Tomorrow’s Spaces Today – Brindha Builders, Your Trusted Partner in 
+                                <p class="about-text">Crafting Tomorrow’s Spaces Today – Brintha Builders, Your Trusted Partner in 
                                     Innovative Construction Excellence..</p>
                                     <div class="th-social">
-                                        <a href="https://www.facebook.com/"><i
+                                        <a href="https://www.facebook.com/profile.php?id=61555487381020"target="_blank"><i
                                         class="fab fa-facebook-f"></i></a>
-                                         
-                                        <a href="https://www.instagram.com/"><i 
+                                        <a href="https://www.youtube.com/@BrinthaBuilders"target="_blank"><i
+                                        class="fab fa-youtube"></i></a>
+                                        <a href="https://www.instagram.com/Brintha_builders/"target="_blank"><i 
                                             class="fab fa-instagram"></i>
-                                       </a></div>
+                                       </a>
+                                       <a href="https://api.whatsapp.com/send/?phone=8220807297&text&type=phone_number&app_absent=0"target="_blank"><i
+                                        class="fab fa-whatsapp"></i></a>
+                                    </div>
                             </div>
                         </div>
                     </div>
                   
                     <div class="col-md-6 col-xl-auto">
                         <div class="widget widget_nav_menu footer-widget">
-                            <h3 class="widget_title">our services</h3>
+                            <h3 class="widget_title">Our Services</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="service.php">consulting
+                                    <li><a href="service.php">Consulting
                                     </a></li>
                                     <li><a href="service.php">Estimate
                                     </a></li>
-                                    <li><a href="service.php">Approval plan
+                                    <li><a href="service.php"> Plan Approval
                                     </a></li>
                                     <li><a href="service.php">Contract</a></li>
-                                    <li><a href="service.php">Elevation work(3D)</a></li>
-                                    <li><a href="service.php">Site supervising
+                                    <li><a href="service.php">Elevation Work</a></li>
+                                    <li><a href="service.php">Site Supervising
                                     </a></li>
                                 </ul>
                             </div>
@@ -376,7 +385,7 @@
                             <div class="th-widget-contact">
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-location-dot"></i></div>
-                                    <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur.</p>
+                                    <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur 5 .</p>
                                 </div>
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-envelope"></i></div><a

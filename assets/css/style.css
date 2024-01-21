@@ -121,8 +121,10 @@ img:not([draggable]),
 embed,
 object,
 video {
+    
     max-width: 100%;
     height: auto
+    
 }
 
 ul {
@@ -178,8 +180,10 @@ button {
 }
 
 img {
+  
     border: none;
     max-width: 100%
+    
 }
 
 ins {

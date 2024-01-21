@@ -15,10 +15,10 @@
     <meta name="keywords" content="Konta - Construction & Real Estate Company HTML Template">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/logo.png">
+    <link rel="icon" type="image/png" sizes="144x144" style="width:144px; height: 144px;" href="assets/img/favicons/logo1.png">
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="assets/img/favicons/logo.png">
+    <meta name="msapplication-TileImage" style="width:144px; height: 144px;" content="assets/img/favicons/logo1.png">
     <meta name="theme-color" content="#ffffff">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -40,7 +40,7 @@
     </div>
     <div class="th-menu-wrapper">
         <div class="th-menu-area text-center"><button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-            <div class="mobile-logo"><a href="index.php"><img src="assets/img/logo1.jpg" alt="Konta"></a></div>
+            <div style="  width: 400px; margin-left: 50px " class="mobile-logo"><a href="index.php"><img src="assets/img/logo1.png" alt="Konta"></a></div>
             <div class="th-mobile-menu">
                 <ul>
                     <li > <a href="index.php">Home</a></li>
@@ -86,10 +86,17 @@
                                   
                                     </li>
                                     <li>
-                                        <div class="header-social"><a href="https://www.facebook.com/"><i
+                                        <div class="header-social"><a href="https://www.facebook.com/profile.php?id=61555487381020"target="_blank"><i
                                                     class="fab fa-facebook-f"></i></a> 
+                                                  
+                                                    
                                                
-                                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                                            <a href="https://www.instagram.com/Brintha_builders/"target="_blank"><i class="fab fa-instagram"></i></a>
+                                            <a href="https://www.youtube.com/@BrinthaBuilders"target="_blank"><i
+                                        class="fab fa-youtube"></i></a>
+                                        <a href="https://api.whatsapp.com/send/?phone=8220807297&text&type=phone_number&app_absent=0"target="_blank"><i
+                                        class="fab fa-whatsapp"></i></a>
+                                    
                                         </div>
                                     </li>
                                 </ul>
@@ -105,7 +112,7 @@
                     <div class="container">
                         <div class="row align-items-center justify-content-between">
                             <div class="col-auto">
-                                <div class="logo-style3"><a href="index.php"><img src="assets/img/logo1.jpg"
+                                <div  class="logo-style3"><a href="index.php"><img style="  width: 200px ;margin-left: 50px " src="assets/img/logo1.png"
                                             alt="Konta"></a></div>
                             </div>
                             <div class="col-auto">
@@ -155,9 +162,9 @@
            <div class="th-hero-bg" data-bg-src="assets/img/update1/hero/hero_bg_4_1.jpg"><img
                     src="assets/img/update1/hero/hero_overlay_4.png" alt="overlay"></div>
             <div class="container z-index-common">
-                <div class="hero-style6"><span class="hero-subtitle"><span style="color:white">Future craft</span></span>
+                <div class="hero-style6"><span class="hero-subtitle"><span style="color:white">Feature craft</span></span>
                     <h1 class="hero-title"> Building Your<br> Tomorrows Now.</h1>
-                    <p class="hero-text">Brindha Builders - Unleashing Innovation, Defining the Future, One Structure at a Time.</p>
+                    <p class="hero-text">Brintha Builders - Unleashing Innovation, Defining the Future, One Structure at a Time.</p>
                     
                 </div>
             </div>
@@ -174,7 +181,7 @@
                         </div>
                         <div>
                             <h3 class="feature-box_title box-title">Great Ideas</h3>
-                            <p class="feature-box_text">Turn dreams into reality with Brindha Builders' innovative designs.</p>
+                            <p class="feature-box_text">Turn dreams into reality with Brintha Builders' innovative designs.</p>
                         </div>
                     </div>
                 </div>
@@ -194,7 +201,7 @@
                         </div>
                         <div>
                             <h3 class="feature-box_title box-title">Quality Materials</h3>
-                            <p class="feature-box_text">Lasting quality in every detail-Brindha Builders' superior materials.</p>
+                            <p class="feature-box_text">Lasting quality in every detail-Brintha Builders' superior materials.</p>
                         </div>
                     </div>
                 </div>
@@ -204,7 +211,7 @@
                         </div>
                         <div>
                             <h3 class="feature-box_title box-title">Remodel Expert</h3>
-                            <p class="feature-box_text">Transform spaces into sanctuaries with the Brindha Builders' expert touch.</p>
+                            <p class="feature-box_text">Transform spaces into sanctuaries with the Brintha Builders' expert touch.</p>
                         </div>
                     </div>
                 </div>
@@ -230,7 +237,7 @@
                 <div class="col-xl-6 ps-3 ps-xl-5">
                     <div class="title-area mb-30"><span class="sub-title6">ABOUT US <span class="shape right"><span
                                     class="dots"></span></span></span>
-                        <h2 class="sec-title">We are Brindha builders, a company dedicated to changing the world</h2>
+                        <h2 class="sec-title">We are Brintha builders, a company dedicated to changing the world</h2>
                     </div>
                     <p class="mt-n2 mb-4">Proactively foster relationships centered around our clients with a focus on process-centric 
                         leadership. Uphold credibility by prioritizing internally derived sources, favoring organic growth over rigid 
@@ -275,7 +282,7 @@
                         <div class="service-list_content">
                             <h3 class="service-list_title box-title" data-bs-toggle="modal"
                                 data-bs-target="#serviceModal">Contract</h3>
-                            <p class="service-list_text">Expert advice guiding you through every construction decision with Brindha Builders.
+                            <p class="service-list_text">Expert advice guiding you through every construction decision,architectural design and  material selection with Brintha Builders.
 
 
                             </p>
@@ -288,8 +295,8 @@
                         </div>
                         <div class="service-list_content">
                             <h3 class="service-list_title box-title" data-bs-toggle="modal"
-                                data-bs-target="#serviceModal">Approval Plans</h3>
-                            <p class="service-list_text">Accurate cost projections ensuring transparent and budget-friendly construction solutions with Brindha.
+                                data-bs-target="#serviceModal">Plan Approvals</h3>
+                            <p class="service-list_text">Accurate cost projections ensuring transparent and budget-friendly construction solutions with Brintha.
 
                             </p>
                         </div>
@@ -302,7 +309,7 @@
                         <div class="service-list_content">
                             <h3 class="service-list_title box-title" data-bs-toggle="modal"
                                 data-bs-target="#serviceModal">Elevation Works  (3D)</h3>
-                            <p class="service-list_text">Navigating regulatory processes seamlessly, securing approvals for your project with Brindha.
+                            <p class="service-list_text">Navigating regulatory processes seamlessly, securing approvals for your project with Brintha.
 
                             </p>
                         </div>
@@ -526,7 +533,7 @@
                 </div>
             </div>
             <div class="tab-menu2 filter-menu-active"><button data-filter=".cat1" class="active"
-                    type="button">Mission</button> <button data-filter=".cat2" type="button">Vission</button> <button
+                    type="button">Mission</button> <button data-filter=".cat2" type="button">Vision</button> <button
                     data-filter=".cat3" type="button">Value</button> <button data-filter=".cat4" type="button">Award
                     Winning</button></div>
             <div class="mission-box-wrap mt-50 filter-active-cat1">
@@ -542,12 +549,12 @@
                                 </p>
                             <div class="checklist style5">
                                 <ul>
-                                    <li>consulting Services</li>
+                                    <li>Consulting Services</li>
                                     <li>Elevation Works</li>
-                                    <li>Site supervising</li>
+                                    <li>Site Supervising</li>
                                     <li>Contract </li>
                                     <li>Estimate </li>
-                                    <li>Approval plan </li>
+                                    <li>Plan Approval </li>
                                 </ul>
                             </div>
                             
@@ -567,12 +574,12 @@
                                 </p>
                             <div class="checklist style5">
                                 <ul>
-                                    <li>consulting Services</li>
+                                    <li>Consulting Services</li>
                                     <li>Elevation Works</li>
-                                    <li>Site supervising</li>
+                                    <li>Site Supervising</li>
                                     <li>Contract </li>
                                     <li>Estimate </li>
-                                    <li>Approval plan </li>
+                                    <li>Plan Approval </li>
                                 </ul>
                             </div>
                             
@@ -589,12 +596,12 @@
                                 Iand We conduct business with honesty, transparency, and ethical principles, fostering trust with our clients, partners, and employees.</p>
                             <div class="checklist style5">
                                 <ul>
-                                    <li>consulting Services</li>
+                                    <li>Consulting Services</li>
                                     <li>Elevation Works</li>
-                                    <li>Site supervising</li>
+                                    <li>Site Supervising</li>
                                     <li>Contract </li>
                                     <li>Estimate </li>
-                                    <li>Approval plan </li>
+                                    <li>Plan Approval </li>
                                 </ul>
                             </div>
                             
@@ -612,12 +619,12 @@
                                 maximize covalent data with world-class schemas.</p>
                             <div class="checklist style5">
                                 <ul>
-                                    <li>consulting Services</li>
+                                    <li>Consulting Services</li>
                                     <li>Elevation Works</li>
-                                    <li>Site supervising</li>
+                                    <li>Site Supervising</li>
                                     <li>Contract </li>
                                     <li>Estimate </li>
-                                    <li>Approval plan </li>
+                                    <li>Plan Approval </li>
                                 </ul>
                             </div>
                             <div class="mission-feature-wrap">
@@ -695,13 +702,13 @@
                 <div class="col-lg-6">
                     <div class="testi-card style3">
                         <div class="testi-card-icon"><img src="assets/img/icon/testi-quote3.svg" alt="img"></div>
-                        <p class="testi-card_text"><span class="text-theme">“</span>Brindha Builders has truly set a benchmark in construction in Tamil Nadu. 
+                        <p class="testi-card_text"><span class="text-theme">“</span>Brintha Builders has truly set a benchmark in construction in Tamil Nadu. 
                             Their commitment to quality and timelines is commendable. I am a satisfied customer!<span class="text-theme">”</span></p>
                         <div class="testi-card_content">
                            
                             <div class="testi-card_bottom">
-                                <h3 class="testi-card_name">Ramesh S</h3><span
-                                    class="testi-card_desig">Thanjavur</span>
+                                <h3 class="testi-card_name">Happy Customers</h3><span
+                                    class="testi-card_desig">From Google </span>
                                 <div class="testi-card_review"><i class="fa-regular fa-star-sharp"></i> <i
                                         class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
                                     <i class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
@@ -713,15 +720,15 @@
                 <div class="col-lg-6">
                     <div class="testi-card style3">
                         <div class="testi-card-icon"><img src="assets/img/icon/testi-quote3.svg" alt="img"></div>
-                        <p class="testi-card_text"><span class="text-theme">“</span>In the heart of Tamil Nadu, in Trichy, Brindha Builders has left an indelible mark. 
+                        <p class="testi-card_text"><span class="text-theme">“</span>In the heart of Tamil Nadu, in Trichy, Brintha Builders has left an indelible mark. 
                             Their construction prowess and attention to detail make them the go-to choice!
 <span class="text-theme">”</span>
                         </p>
                         <div class="testi-card_content">
                             
                             <div class="testi-card_bottom">
-                                <h3 class="testi-card_name">Deepa M</h3><span
-                                    class="testi-card_desig">Trichy</span>
+                                <h3 class="testi-card_name">Happy Customers</h3><span
+                                    class="testi-card_desig">From Google</span>
                                 <div class="testi-card_review"><i class="fa-regular fa-star-sharp"></i> <i
                                         class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
                                     <i class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
@@ -733,14 +740,14 @@
                 <div class="col-lg-6">
                     <div class="testi-card style3">
                         <div class="testi-card-icon"><img src="assets/img/icon/testi-quote3.svg" alt="img"></div>
-                        <p class="testi-card_text"><span class="text-theme">“</span>I'm delighted with Brindha Builders' 
+                        <p class="testi-card_text"><span class="text-theme">“</span>I'm delighted with Brintha Builders' 
                             dedication to architectural excellence. They have reshaped our 
                             living spaces with unparalleled craftsmanship.<span class="text-theme">”</span></p>
                         <div class="testi-card_content">
                             
                             <div class="testi-card_bottom">
-                                <h3 class="testi-card_name"> Arvind K</h3><span class="testi-card_desig">
-                                    Trichy</span>
+                                <h3 class="testi-card_name"> Happy Customers </h3><span class="testi-card_desig">
+                                From Google</span>
                                 <div class="testi-card_review"><i class="fa-regular fa-star-sharp"></i> <i
                                         class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
                                     <i class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
@@ -752,13 +759,13 @@
                 <div class="col-lg-6">
                     <div class="testi-card style3">
                         <div class="testi-card-icon"><img src="assets/img/icon/testi-quote3.svg" alt="img"></div>
-                        <p class="testi-card_text"><span class="text-theme">“</span>Living in Coimbatore, I was in search of reliable builders. Brindha Builders 
+                        <p class="testi-card_text"><span class="text-theme">“</span>Living in Coimbatore, I was in search of reliable builders. Brintha Builders 
                             exceeded my expectations with their transparency and professionalism. <span class="text-theme">”</span></p>
                         <div class="testi-card_content">
                            
                             <div class="testi-card_bottom">
-                                <h3 class="testi-card_name">Priya</h3><span
-                                    class="testi-card_desig">Thanjavur</span>
+                                <h3 class="testi-card_name">Happy Customers</h3><span
+                                    class="testi-card_desig">From Google </span>
                                 <div class="testi-card_review"><i class="fa-regular fa-star-sharp"></i> <i
                                         class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
                                     <i class="fa-regular fa-star-sharp"></i> <i class="fa-regular fa-star-sharp"></i>
@@ -835,17 +842,23 @@
                     <div class="col-md-6 col-xxl-3 col-xl-3">
                         <div class="widget footer-widget">
                             <div class="th-widget-about">
-                                <div class="about-logo"><a href="index.php"><img src="assets/img/logo1.webp"
+                                <div  class="about-logo"><a href="index.php"><img src="assets/img/logo1.png"
                                             alt="Konta"></a></div>
-                                <p class="about-text">Crafting Tomorrow’s Spaces Today – Brindha Builders, Your Trusted Partner in 
+                                <p class="about-text">Crafting Tomorrow’s Spaces Today – Brintha Builders, Your Trusted Partner in 
                                     Innovative Construction Excellence..</p>
                                     <div class="th-social">
-                                        <a href="https://www.facebook.com/"><i
+                                        <a href="https://www.facebook.com/profile.php?id=61555487381020"target="_blank"><i
                                         class="fab fa-facebook-f"></i></a>
+                                        <a href="https://www.youtube.com/@BrinthaBuilders"target="_blank"><i
+                                        class="fab fa-youtube"></i></a>
                                          
-                                        <a href="https://www.instagram.com/"><i 
+                                        <a href="https://www.instagram.com/Brintha_builders/"target="_blank"><i 
                                             class="fab fa-instagram"></i>
-                                       </a></div>
+                                       </a>
+                                       <a href="https://api.whatsapp.com/send/?phone=8220807297&text&type=phone_number&app_absent=0"target="_blank"><i
+                                        class="fab fa-whatsapp"></i></a>
+                                    
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -855,15 +868,15 @@
                             <h3 class="widget_title">our services</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="service.php">consulting
+                                    <li><a href="service.php">Consulting
                                     </a></li>
                                     <li><a href="service.php">Estimate
                                     </a></li>
-                                    <li><a href="service.php">Approval plan
+                                    <li><a href="service.php">Plan Approval
                                     </a></li>
                                     <li><a href="service.php">Contract</a></li>
-                                    <li><a href="service.php">Elevation work(3D)</a></li>
-                                    <li><a href="service.php">Site supervising
+                                    <li><a href="service.php">Elevation Work</a></li>
+                                    <li><a href="service.php">Site Supervising
                                     </a></li>
                                 </ul>
                             </div>
@@ -890,7 +903,7 @@
                             <div class="th-widget-contact">
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-location-dot"></i></div>
-                                    <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur</p>
+                                    <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur 5</p>
                                 </div>
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-envelope"></i></div><a
