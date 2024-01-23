@@ -140,7 +140,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.php" class="th-btn style-new ml-15">CHAT ON WHATSAPP<i
+                                            <a href="https://api.whatsapp.com/send/?phone=8220807297&text&type=phone_number&app_absent=0"target="_blank" class="th-btn style-new ml-15">CHAT ON WHATSAPP<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
@@ -203,7 +203,7 @@
                         <div class="title-area mb-xl-0 text-center text-xl-start mb-50"><span class="sub-title4">Our
                                 Company Achievements</span>
                             <h2 class="sec-title fw-semibold">Industrial Strength, Global Impact</h2><a
-                                href="contact.php" class="th-btn mt-10">CHAT ON WHATSAPP <i
+                                href="https://api.whatsapp.com/send/?phone=8220807297&text&type=phone_number&app_absent=0"target="_blank" class="th-btn mt-10">CHAT ON WHATSAPP <i
                                     class="fa-regular fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>

@@ -139,7 +139,7 @@
                                     <div class="col-auto d-none d-xl-block">
                                        <div class="header-button"><!--<button type="button"
                                                 class="icon-btn searchBoxToggler"><i class="far fa-search"></i></button>-->
-                                            <a href="contact.php" class="th-btn style-new ml-15"> CHAT ON WHATSAPP<i
+                                            <a href="https://api.whatsapp.com/send/?phone=8220807297&text&type=phone_number&app_absent=0"target="_blank" class="th-btn style-new ml-15"> CHAT ON WHATSAPP<i
                                                     class="fas fa-arrow-right ms-2"></i></a></div>
                                     </div>
                                 </div>
