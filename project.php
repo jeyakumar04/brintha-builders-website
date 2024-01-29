@@ -409,7 +409,7 @@
                                     <li><a href="service.php">Plan Approval
                                     </a></li>
                                     <li><a href="service.php">Contract</a></li>
-                                    <li><a href="service.php">Elevation Work</a></li>
+                                    <li><a href="service.php">Villa and House Promoting</a></li>
                                     <li><a href="service.php">Site Supervising
                                     </a></li>
                                 </ul>
@@ -437,7 +437,7 @@
                             <div class="th-widget-contact">
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-location-dot"></i></div>
-                                    <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur 5.</p>
+                                    <p class="info-box_text">No.3 Rayar Complex , Near Annai Theresa Foundation ,Thanjavur 5.</p>
                                 </div>
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-envelope"></i></div><a

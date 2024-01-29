@@ -168,14 +168,27 @@
                 <h2 class="sec-title">The Best Service For You</h2>
             </div>
             <div class="row gy-4">
-                <div class="col-md-6 col-lg-4">
+            <div class="col-md-6 col-lg-4">
                     <div class="service-card style2 bg-shadow">
                         <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-1.png"></div>
+                        <div class="service-content">
+                            <div class="service-card-icon"><img src="assets/img/icon/feature-1_5.svg" alt="icon">
+                            </div>
+                            <h3 class="box-title"><a href="service.php">Constructions</a></h3>
+                            <div class="service-card-number">01</div>
+                        </div>
+                        <p class="service-card-text">Transforming dreams into structures. Expertise in commercial, residential, and remodeling projects. 
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="service-card style2 bg-shadow">
+                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-2.png"></div>
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-1.svg" alt="icon">
                             </div>
                             <h3 class="box-title"><a href="Consulting.php">Consulting</a></h3>
-                            <div class="service-card-number">01</div>
+                            <div class="service-card-number">02</div>
                         </div>
                         <p class="service-card-text">Expert advice guiding you through every construction decision with Brintha Builders.
 
@@ -186,12 +199,12 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="service-card style2 bg-shadow">
-                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-1.png"></div>
+                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-3.png"></div>
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-2.svg" alt="icon">
                             </div>
                             <h3 class="box-title"><a href="estimate.php">Estimate </a></h3>
-                            <div class="service-card-number">02</div>
+                            <div class="service-card-number">03</div>
                         </div>
                         <p class="service-card-text">Accurate cost projections ensuring transparent and budget-friendly construction solutions with Brintha.
 
@@ -201,12 +214,12 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="service-card style2 bg-shadow">
-                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-1.png"></div>
+                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-4.png"></div>
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-3.svg" alt="icon">
                             </div>
                             <h3 class="box-title"><a href="Plan Approval.php">Plan Approval</a></h3>
-                            <div class="service-card-number">03</div>
+                            <div class="service-card-number">04</div>
                         </div>
                         <p class="service-card-text">Navigating regulatory processes seamlessly, securing approvals for your project with Brintha.
 
@@ -215,12 +228,12 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="service-card style2 bg-shadow">
-                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-1.png"></div>
+                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-5.png"></div>
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-4.svg" alt="icon">
                             </div>
                             <h3 class="box-title"><a href="service.php"> Contract</a></h3>
-                            <div class="service-card-number">04</div>
+                            <div class="service-card-number">05</div>
                         </div>
                         <p class="service-card-text">Detailed agreements, binding our commitment to excellence and your satisfaction.
 
@@ -229,33 +242,34 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="service-card style2 bg-shadow">
-                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-1.png"></div>
+                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-6.png"></div>
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-5.svg" alt="icon">
                             </div>
-                            <h3 class="box-title"><a href="elevation works.php">Elevation Works</a></h3>
-                            <div class="service-card-number">05</div>
-                        </div>
-                        <p class="service-card-text">Visualize your project's potential with our cutting-edge 3D elevation works are the perfect solution.
+                            <h3 class="box-title"><a href="elevation works.php">Villa and House Promoting</a></h3>
+                            <div class="service-card-number">06</div>
+                        </div>Elevate your lifestyle with our luxurious villas and stylish houses. Impeccable design, premium craftsmanship.
 
                         </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="service-card style2 bg-shadow">
-                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-1.png"></div>
+                        <div class="service-card-bg-img" data-bg-src="assets/img/service/service-2-7.png"></div>
                         <div class="service-content">
                             <div class="service-card-icon"><img src="assets/img/icon/service-icon-2-6.svg" alt="icon">
                             </div>
                             <h3 class="box-title"><a href="service.php">Site Supervising</a></h3>
-                            <div class="service-card-number">06</div>
+                            <div class="service-card-number">07</div>
                         </div>
                         <p class="service-card-text">Diligent oversight ensuring construction aligns with plans, led by Brintha Builders.
                         </p>
                     </div>
                 </div>
+                
             </div>
         </div>
+        
     </section>
     <div class="contact-area-1 space bg-smoke" id="contact-sec">
         <div class="shape-mockup contact-thumb1"><img src="assets/img/normal/contact_thumb1.png" alt="img"></div>
@@ -297,7 +311,7 @@
                                                 <option value="" disabled="disabled" selected="selected" hidden="">
                                                     Select Subject*</option>
                                                 <option value="Web Design">Consulting</option>
-                                                <option value="Web Development">Elevation works</option>
+                                                <option value="Web Development">Villa and House Promoting</option>
                                                 <option value="Engine Diagnostics">Contract</option>
                                                 <option value="Digital Marketing">supervising</option>
                                             </select></div>
@@ -357,7 +371,7 @@
                                     <li><a href="service.php"> Plan Approval
                                     </a></li>
                                     <li><a href="service.php">Contract</a></li>
-                                    <li><a href="service.php">Elevation Work</a></li>
+                                    <li><a href="service.php">Villa and House Promoting</a></li>
                                     <li><a href="service.php">Site Supervising
                                     </a></li>
                                 </ul>
@@ -385,7 +399,7 @@
                             <div class="th-widget-contact">
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-location-dot"></i></div>
-                                    <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur 5 .</p>
+                                    <p class="info-box_text">No.3 Rayar Complex , Near Annai Theresa Foundation ,Thanjavur 5.</p>
                                 </div>
                                 <div class="info-box-wrap">
                                     <div class="info-box_icon"><i class="fas fa-envelope"></i></div><a

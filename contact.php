@@ -175,7 +175,7 @@
                         <div class="contact-feature-icon"><i class="fal fa-location-dot"></i></div>
                         <div class="media-body">
                             <p class="contact-feature_label">Our Address</p><a href="https://www.google.com/maps"
-                                class="contact-feature_link">No.3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur 5</a>
+                                class="contact-feature_link">No.3 Rayar Complex , Near Annai Theresa Foundation ,Thanjavur 5.</a>
                         </div>
                     </div>
                 </div>
@@ -291,7 +291,7 @@
                                             <li><a href="service.php">Plan Approval
                                             </a></li>
                                             <li><a href="service.php">Contract</a></li>
-                                            <li><a href="service.php">Elevation Work</a></li>
+                                            <li><a href="service.php">Villa and House Promoting</a></li>
                                             <li><a href="service.php">Site Supervising
                                             </a></li>
                                         </ul>
@@ -319,7 +319,7 @@
                                     <div class="th-widget-contact">
                                         <div class="info-box-wrap">
                                             <div class="info-box_icon"><i class="fas fa-location-dot"></i></div>
-                                            <p class="info-box_text">No3 Rayar-Complex , Near Annai Theresa Foundation ,Thanjavur 5</p>
+                                            <p class="info-box_text">No.3 Rayar Complex , Near Annai Theresa Foundation ,Thanjavur 5</p>
                                         </div>
                                         <div class="info-box-wrap">
                                             <div class="info-box_icon"><i class="fas fa-envelope"></i></div><a
