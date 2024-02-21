@@ -11,10 +11,9 @@
     <meta name="keywords" content="Konta - Construction & Real Estate Company HTML Template">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/logo1.png">
-    <link rel="manifest" href="assets/img/favicons/manifest.json">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon.png">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="assets/img/favicons/logo1.png">
+    <meta name="msapplication-TileImage" content="assets/img/favicons/favicon.png">
     <meta name="theme-color" content="#ffffff">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
